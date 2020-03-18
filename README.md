@@ -7,3 +7,5 @@ And any other useful notes I found while learning
 Python. Also a few little projects I made
 Just to help me learn the language.
 """
+
+
