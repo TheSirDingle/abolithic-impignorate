@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #spam[2] is a list with an index (one integer)
 #spam[1:4] is a list with a slice (two integer) 
 #The first integer is where the slice starts. The second integer is where the slice ends 
