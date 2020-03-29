@@ -1,4 +1,3 @@
-#Aaron Stockman
 
 #importing different modules 
 #importing allows you to add a group of related modules to your program
