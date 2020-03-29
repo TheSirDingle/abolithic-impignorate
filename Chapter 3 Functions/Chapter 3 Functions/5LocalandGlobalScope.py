@@ -1,5 +1,3 @@
-#aaron stockman
-
 def spam():
     #this is a local statement since it's inside a function 
     eggs = 99
