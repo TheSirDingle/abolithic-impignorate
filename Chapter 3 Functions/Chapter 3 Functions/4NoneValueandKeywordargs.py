@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #the none value represents the abscene of a value 
 #must be typed with a Capital N like the boolean data type 
 
