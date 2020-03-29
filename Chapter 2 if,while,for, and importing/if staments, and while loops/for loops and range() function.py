@@ -1,4 +1,4 @@
-#Aaron Stockman
+
 # for loops, range() function 
 
 # for loops allow you to execute a loop only a certain amount of times 
