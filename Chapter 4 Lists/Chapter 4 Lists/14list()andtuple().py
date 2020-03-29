@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #Converts list to tuples 
 print(tuple(['cat', 'dog', 5]))
 
