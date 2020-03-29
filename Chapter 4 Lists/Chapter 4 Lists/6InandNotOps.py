@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #In and out operators used in expressions and connect two values. 
 #They evaluate to a Boolean value.
 
