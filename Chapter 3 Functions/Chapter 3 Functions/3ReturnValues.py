@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 import random 
 
 """
