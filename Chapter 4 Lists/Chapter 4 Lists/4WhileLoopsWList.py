@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 catNames = []
 
 while True:
