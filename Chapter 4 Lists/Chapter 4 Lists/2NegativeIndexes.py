@@ -1,4 +1,3 @@
-#Aaron Stockman
 
 """
 Negative indexes is the opposite of calling regular indexes.
