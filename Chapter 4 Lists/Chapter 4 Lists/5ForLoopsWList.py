@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #this programs uses list inside of for loops
 
 #prints numbers 0-19
