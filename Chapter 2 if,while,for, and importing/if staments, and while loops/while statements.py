@@ -1,4 +1,4 @@
-#Aaron Stockman
+
 #While statments,  breaks, and continues 
 
 #while loops are statements that repeat itself until the statement is false 
