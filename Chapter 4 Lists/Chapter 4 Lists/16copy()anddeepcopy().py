@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #imports many of the different copy functions
 import copy 
 
