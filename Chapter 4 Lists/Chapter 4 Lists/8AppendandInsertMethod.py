@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #to add values to a list use the append() and insert() methods 
 
 spam = ['cat', 'dog', 'bat']
