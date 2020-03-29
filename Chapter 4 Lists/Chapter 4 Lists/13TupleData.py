@@ -1,7 +1,5 @@
-#Aaron Stockman
-
 """tuple data type is almost indentical to the list data type,
-except in two way. First, tuples are types with parentheses.
+except in two ways. First, tuples are types with parentheses.
 Secondly, tuples are immutable, meaning thier values cannot be modified.
 """
 eggs = ('hello', 42, 0.5)
