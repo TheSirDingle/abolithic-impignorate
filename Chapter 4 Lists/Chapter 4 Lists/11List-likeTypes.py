@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #strings can also be tampered with like list, but not changed
 
 name = 'Zophie'
