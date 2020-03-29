@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 """
 this doesn't change cheese to 100 becuase they're different 
 variables that store different values
