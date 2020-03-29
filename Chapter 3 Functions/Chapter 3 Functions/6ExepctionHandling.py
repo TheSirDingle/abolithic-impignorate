@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #without the try function it will output a divided by zero error 
 #with it, it will output all the calls, and output zero as an error 
 def spam(divideBy):
