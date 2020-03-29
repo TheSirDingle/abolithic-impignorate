@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #remove function allows you to remove certain values inside a list
 spam = ['cat', 'bat', 'rat', 'elephant']
 spam.remove('bat')
