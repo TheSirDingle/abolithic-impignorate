@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #method is the same thing as a function, except it's a called on value
 #index() allows you to check the what index a certain value inside a list is
 
