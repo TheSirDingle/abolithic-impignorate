@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #strings are an immutable, meaning it can't be changed 
 #list values are mutable, meaning it can be changed. Such as adding, removing, etc
 
