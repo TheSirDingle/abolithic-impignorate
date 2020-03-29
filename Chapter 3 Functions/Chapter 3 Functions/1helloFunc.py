@@ -1,4 +1,4 @@
-#Aaron Stockman 
+
 #start of chapter 3 functions 
 
 #defines the function name
