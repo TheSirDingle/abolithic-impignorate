@@ -1,4 +1,4 @@
-#Created by Aaron Stockman
+
 #This is a test of if statements, while loops, and a few other function
 
 #type flow statements 
