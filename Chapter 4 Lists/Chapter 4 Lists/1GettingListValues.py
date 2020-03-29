@@ -1,5 +1,3 @@
-#Aaron Stockman
-
 #this variable is asigned to a list, and contains 4 list values 
 spam = ['cat', 'bat', 'rat', 'elephant']
 
